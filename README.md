@@ -30,7 +30,7 @@
 > End-to-end AI pipeline using XGBoost + SHAP + DeepSeek for explainable stock forecasting  
 > ⚡ Real-time API | 🧠 LLM Reasoning | 🧮 Investment insights for 30+ US Stocks
 
-#### 📊 [Sentiment vs Traditional Models](https://github.com/alankit04/sentiment-vs-traditional)
+#### 📊 [Sentiment vs Traditional Models](https://github.com/alankit04/Finance-Sentimental-Analysis)
 > LSTM, RNN, XGBoost, and Logistic Regression benchmarked on stock movement prediction  
 > 💬 FinBERT Sentiment + SHAP Explainability + Yahoo Finance API
 
