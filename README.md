@@ -35,7 +35,7 @@
 > 💬 FinBERT Sentiment + SHAP Explainability + Yahoo Finance API
 
 
-#### 💸 [Forex Price Predictor (RNN)](https://github.com/alankit04/forex-rnn-predictor)
+#### 💸 [Forex Price Predictor (RNN)](https://github.com/alankit04/Apple-Stock-Analysis)
 > Recurrent neural network trained on multi-country forex time series  
 > 📉 Custom loss tracking + TensorBoard visualizations
 
