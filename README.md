@@ -7,16 +7,22 @@
 
 ---
 
-### 🧩 What I Do
+### 🧩 What I Do  
 
 🚀 Building intelligent systems that transform financial data into real-time insights using:
 
-- 🧠 **AI/ML**: LSTM, RNN, XGBoost, SHAP, Sentiment Analysis  
-- 📈 **Stock Market Forecasting** + LLM-based RAG agents  
-- ☁️ **Cloud Automation**: AWS, GCP, n8n workflows  
-- 🧰 **Tooling**: Python, FastAPI, SQL, Streamlit, FAISS, Alpha Vantage API
+- 🧠 **AI / ML & Explainability**  
+  Python, R | TensorFlow, XGBoost, Random Forest, Logistic Regression | SHAP, RAG, Hugging Face, ONNX | Deep-learning architectures (RNN / LSTM, CNN, Transformer models) | Statistical & Predictive Modelling  
 
----
+- 📈 **Stock-Market Forecasting & NLP**  
+  Sentiment Analysis (FinBERT) | Alpha Vantage API | DeepSeek LLMs | ChromaDB & FAISS vector stores | Time-series & anomaly detection  
+
+- ☁️ **Cloud & DevOps Automation**  
+  AWS, GCP, Azure | Docker, Kubernetes | CI/CD with GitHub Actions & Jenkins | n8n low-code workflows | Hadoop, Git  
+
+- 🧰 **Tooling & Visualisation**  
+  FastAPI back-ends, Streamlit dashboards | SQL / MySQL, Advanced Excel | Power BI, Tableau | Java, C++, Golang for performance-critical modules
+
 
 ### 🚀 Featured Projects
 
@@ -28,21 +34,24 @@
 > LSTM, RNN, XGBoost, and Logistic Regression benchmarked on stock movement prediction  
 > 💬 FinBERT Sentiment + SHAP Explainability + Yahoo Finance API
 
-#### 🕵️ [Crime Forecasting in Dallas](https://github.com/alankit04/crime-forecasting)
-> Used SARIMA, LSTM, and DBSCAN to optimize resource allocation for Dallas police  
-> 🌎 Geospatial Mapping + Time-Series + Emergency Response Modeling
 
 #### 💸 [Forex Price Predictor (RNN)](https://github.com/alankit04/forex-rnn-predictor)
 > Recurrent neural network trained on multi-country forex time series  
 > 📉 Custom loss tracking + TensorBoard visualizations
 
-#### 🌐 [Data Automation with n8n](https://github.com/alankit04/n8n-automations)
-> Low-code automations to fetch news, stock data, and retrain models weekly  
-> 🔄 GitHub Actions + n8n + APIs
+
 
 ---
 
 ### 📌 My Stack
 
 ```text
-Python | XGBoost | SHAP | TensorFlow | FastAPI | Streamlit | SQL | GCP | AWS | R | GitHub Actions | Alpha Vantage API | FAISS | n8n
+Python | R | SQL / MySQL | Java | C++ | Golang |
+TensorFlow | XGBoost | Random Forest | Logistic Regression | SHAP | RAG | Hugging Face | ONNX |
+RNN / LSTM | CNN | Transformer Models |
+FastAPI | Streamlit | Alpha Vantage API |
+ChromaDB | FAISS |
+Docker | Kubernetes | Jenkins | GitHub Actions | Git |
+AWS | GCP | Azure |
+Hadoop | n8n |
+Power BI | Tableau | Advanced Excel
