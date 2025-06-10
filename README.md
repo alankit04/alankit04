@@ -1,25 +1,45 @@
 <h1 align="center">Hey 👋 I'm Alan, DevOps-Driven AI/ML Engineer</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+
+  <!-- ML Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" />
+
+  <!-- NLP + AI Tools -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/DeepSeek_logo.svg" width="40" alt="DeepSeek" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/FAISS_logo.png" width="40" alt="FAISS" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/develop/assets/images/n8n-logo.png" width="40" alt="n8n" />
+  <img src="https://avatars.githubusercontent.com/u/59566137?s=200&v=4" width="40" alt="FastAPI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Power_BI_Logo.svg" width="40" alt="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" alt="Tableau" />
+
+  <!-- Infra / DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+
 </p>
 
+
 <p align="center">
-  <a href="https://linkedin.com/in/alankit04"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to" /></a>
+  <a href="mailto:alankit04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/alankit04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
