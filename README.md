@@ -14,17 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" />
 
-  <!-- NLP + AI Tools -->
-  <img src="./assets/huggingface-color.svg" width="40" alt="Hugging Face" />
-  <img src="./assets/SHAP.png" width="40" alt="SHAP" />
-  <img src="./assets/Chroma.png" width="40" alt="ChromaDB" />
-  <img src="./assets/DeepSeek.png" width="40" alt="DeepSeek" />
-  <img src="./assets/FAISS.png" width="40" alt="FAISS" />
-  <img src="./assets/n8n-color.svg" width="40" alt="n8n" />
-  <img src="./assets/fastapi-svgrepo-com.svg" width="40" alt="FastAPI" />
-  <img src="./assets/power-bi.svg" width="40" alt="Power BI" />
-  <img src="./assets/tableau-svgrepo-com.svg" width="40" alt="Tableau" />
-
   <!-- Infra / DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
