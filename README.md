@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Alan, DevOps-Driven AI/ML Engineer</h1>
+<h1 align="center">Hey Everyone !! I'm Alan, DevOps-Driven AI/ML Engineer</h1>
 
 <p align="center">
   <!-- Programming Languages -->
@@ -34,17 +34,17 @@
 
 🚀 Building intelligent systems that transform financial data into real-time insights using:
 
-- 🧠 **AI / ML & Explainability**  
+-  **AI / ML & Explainability**  
   Python, R | TensorFlow, XGBoost, Random Forest, Logistic Regression | SHAP, RAG, Hugging Face, ONNX  
   Deep-learning architectures (RNN / LSTM, CNN, Transformers) | Predictive Modeling  
 
-- 📈 **Stock-Market Forecasting & NLP**  
+-  **Stock-Market Forecasting & NLP**  
   FinBERT Sentiment Analysis | Alpha Vantage API | DeepSeek LLMs | ChromaDB & FAISS vector search | Time-series & anomaly detection  
 
-- ☁️ **Cloud & DevOps Automation**  
+-  **Cloud & DevOps Automation**  
   AWS, GCP, Azure | Docker, Kubernetes | CI/CD with GitHub Actions & Jenkins | n8n low-code workflows | Hadoop, Git  
 
-- 🧰 **Tooling & Visualization**  
+-  **Tooling & Visualization**  
   FastAPI APIs, Streamlit dashboards | SQL / MySQL | Power BI, Tableau | Advanced Excel  
 
 ---
