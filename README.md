@@ -15,13 +15,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" />
 
   <!-- NLP + AI Tools -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/DeepSeek_logo.svg" width="40" alt="DeepSeek" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/FAISS_logo.png" width="40" alt="FAISS" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/develop/assets/images/n8n-logo.png" width="40" alt="n8n" />
-  <img src="https://avatars.githubusercontent.com/u/59566137?s=200&v=4" width="40" alt="FastAPI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Power_BI_Logo.svg" width="40" alt="Power BI" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" alt="Tableau" />
+  <img src="./assets/huggingface-color.svg" width="40" alt="Hugging Face" />
+  <img src="./assets/SHAP.png" width="40" alt="SHAP" />
+  <img src="./assets/Chroma.png" width="40" alt="ChromaDB" />
+  <img src="./assets/DeepSeek.png" width="40" alt="DeepSeek" />
+  <img src="./assets/FAISS.png" width="40" alt="FAISS" />
+  <img src="./assets/n8n-color.svg" width="40" alt="n8n" />
+  <img src="./assets/fastapi-svgrepo-com.svg" width="40" alt="FastAPI" />
+  <img src="./assets/power-bi.svg" width="40" alt="Power BI" />
+  <img src="./assets/tableau-svgrepo-com.svg" width="40" alt="Tableau" />
 
   <!-- Infra / DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
@@ -33,9 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-
 </p>
-
 
 <p align="center">
   <a href="mailto:alankit04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
