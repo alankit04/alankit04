@@ -77,3 +77,4 @@ Docker | Kubernetes | Jenkins | GitHub Actions | Git |
 AWS | GCP | Azure |
 Hadoop | n8n |
 Power BI | Tableau | Advanced Excel
+
