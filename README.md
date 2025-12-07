@@ -54,7 +54,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔎 [AI Analyst as a Service](https://github.com/alankit04/Stock-RAG-SHAP-DeepSeek)  
+#### 🔎 [RAPHI – Explainable Financial AI Agent](https://github.com/alankit04/Stock-RAG-SHAP-DeepSeek)  
 End-to-end AI pipeline using XGBoost + SHAP + DeepSeek for explainable stock forecasting  
 ⚡ Real-time API | 🧠 LLM Reasoning | 🧮 Investment insights for 30+ US Stocks
 
