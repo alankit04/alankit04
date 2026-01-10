@@ -69,13 +69,12 @@ Recurrent neural network trained on multi-country forex time series
 ### 📌 My Stack
 
 ```text
-Python | R | SQL / MySQL | Java | C++ | Golang |
+Python | R | SQL / MySQL | Java | Golang |
 TensorFlow | XGBoost | Random Forest | Logistic Regression | SHAP | RAG | Hugging Face | ONNX |
 RNN / LSTM | CNN | Transformer Models |
 FastAPI | Streamlit | Alpha Vantage API |
-ChromaDB | FAISS |
+ChromaDB | FAISS | PineCone |
 Docker | Kubernetes | Jenkins | GitHub Actions | Git |
-AWS | GCP | Azure |
-Hadoop | n8n |
+AWS | GCP| Hadoop | n8n |
 Power BI | Tableau | Advanced Excel
 
