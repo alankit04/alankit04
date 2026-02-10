@@ -24,11 +24,11 @@
   <a href="mailto:alankit04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/alankrit-srivastava-91407b116/" target="_blank">
+  <a href="https://linkedin.com/in/alankrit-srivastava-91407b116/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://alankritsrivastava-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-#0A66C2?style=flat&logo=vercel&logoColor=purple"/>
+  <a href="https://alankritsrivastava-portfolio.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Vercel-0A66C2?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
