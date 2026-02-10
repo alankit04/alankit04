@@ -27,6 +27,9 @@
   <a href="https://linkedin.com/in/alankrit-srivastava-91407b116/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://alankritsrivastava-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-0A66C2?style=flat&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
